@@ -1,0 +1,8 @@
+node_modules
+dist
+.DS_Store
+.vercel
+.netlify
+*.local
+# keep the resume PDF out of the public repo
+*.pdf
