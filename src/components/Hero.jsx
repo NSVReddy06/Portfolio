@@ -42,18 +42,6 @@ export default function Hero() {
   return (
     <section className="hero" id="top">
       <div className="hero-inner">
-        <motion.a
-          href="#awards"
-          className="hero-badge"
-          initial={{ opacity: 0, y: -10 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ delay: 0.2, duration: 0.6 }}
-        >
-          <span className="pulse-dot" />
-          GWFM Global Industry Excellence Award 2024
-          <Icon name="arrow" size={14} />
-        </motion.a>
-
         <p className="hero-hello mono">
           <motion.span
             initial={{ opacity: 0 }}

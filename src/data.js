@@ -11,7 +11,7 @@ export const profile = {
   email: 'saivikasreddy213@gmail.com',
 
   // Paste your URLs here. Links left empty are hidden on the site.
-  linkedin: '', // e.g. 'https://www.linkedin.com/in/your-handle'
+  linkedin: 'https://www.linkedin.com/in/blueobserver/',
   github: '', // e.g. 'https://github.com/your-handle'
 
   roles: [
